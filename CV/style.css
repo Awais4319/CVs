@@ -1,0 +1,158 @@
+#body{
+	background-color:black;
+}
+#image{
+	margin-left:550px;
+	height:150px;
+	width:300px;
+}
+#info{
+  margin-left : 200px ;
+  margin-right:300px;
+  border:1px solid red;
+
+}
+#cer{
+	margin-left:400px;
+}
+#name{
+	background-color:red;
+	border:1px solid red;
+	color:black;
+	 float:left;
+	 height:395px;
+	 width:250px;
+	 text-align:center;
+}
+#mobile{
+	color:red;
+	margin-left:300px;
+}
+#mo{
+	margin-left:100px;
+	
+}
+#object{
+	background-color:red;
+	border:1px solid red;
+	color:black;
+	 float:left;
+	 height:85px;
+	 
+}
+#main{
+	margin-right:700px;
+ margin-right:300px;
+	 margin-left : 200px ;
+	 border:1px solid red;
+	
+}
+#Main{
+margin-right:700px;
+ margin-right:300px;
+	 margin-left : 200px ;
+	 border:1px solid red;	
+}
+#key{
+	
+	background-color:red;
+	border:1px solid red;
+	color:black;
+	 float:left;
+	 height:240px;
+}
+#education{
+	background-color:red;
+	border:1px solid red;
+	color:black;
+	 float:left;
+	 height:218px;
+	 width:300px;
+	
+
+}
+#edu{
+	 margin-top:80px;
+}
+#n{
+	margin-top:100px;
+}
+#a{
+	margin-top:90px;
+}
+#as{
+	color:red;
+	margin-left:140px;
+}
+#list{
+	color:red;
+	margin-left:120px;
+	
+}
+#form{
+	margin-right:700px;
+ margin-right:300px;
+	 margin-left : 200px ;
+	 border:1px solid red;
+}
+#na{
+	margin-top:190px;
+}
+#table{
+	padding:0%;
+	margin-left:300px;
+	background-color:brown;
+	font-style:italic;
+}
+#MAIN{
+	margin-right:700px;
+ margin-right:300px;
+	 margin-left : 200px ;
+	 border:1px solid red;	
+}
+#money{
+	color:red;
+	margin-left:250px;
+}
+
+#SSC{
+	margin-bottom:200px;
+	float:right;
+	border:1px solid red;
+}
+#human{
+	border:1px solid red;
+	width:150px;
+	height:100px;
+}
+#next{
+	float:right;
+	margin-right:300px;
+	color:black;
+	background-color:red;
+
+}
+#language{
+	margin-right:700px;
+ margin-right:300px;
+	 margin-left : 200px ;
+	 border:1px solid red;	
+}
+#names{
+	background-color:red;
+	border:1px solid red;
+	color:black;
+	 float:left;
+	 height:85px;
+}
+#english{
+	color:red;
+	margin-left:150px;
+}
+#observe{
+	background-color:red;
+	border:1px solid red;
+	color:black;
+	 float:left;
+	 height:212px;
+}
